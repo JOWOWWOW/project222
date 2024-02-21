@@ -122,8 +122,7 @@ section img#mountains-front {
 .sec {
     position: relative;
     padding: 40px;
-    /* background: #1c0522; */
-    background: url(0.12.gif) center / cover;
+    background: #1c0522; 
 }
 
 .sec h2 {
